@@ -1,2 +1,2 @@
 # quizz_app
-Creating a Quizz app using React and Python.
+Quiz app created using React as frontend and flask python as backend.
